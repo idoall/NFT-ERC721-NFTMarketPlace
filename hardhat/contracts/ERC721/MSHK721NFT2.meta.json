@@ -1,0 +1,11 @@
+{
+    "name": "mshk-logo-blue",
+    "description": "mshk.top logo blue",
+    "image": "https://bafybeifxkvzedhwclmibidf5hjoodwqkk2vlbbrlhd3bxbl3wzmkmyrvpq.ipfs.infura-ipfs.io/",
+    "attributes": [
+        {
+            "trait_type": "customAttr",
+            "value": 200
+        }
+    ]
+}

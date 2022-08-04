@@ -1,0 +1,11 @@
+{
+    "name": "mshk-logo-black",
+    "description": "mshk.top logo black",
+    "image": "https://bafybeihodzhbtntgml7t72maxill576ssax6md5kfu72aq4gd4p53oipn4.ipfs.infura-ipfs.io/",
+    "attributes": [
+        {
+            "trait_type": "customAttr",
+            "value": 100
+        }
+    ]
+}
